@@ -1,12 +1,29 @@
 # DataAnalytics
 
-This portfolio consists of:
-1.	Created a GitHub account. 
-2.	Created a repository. 
-3.	Upload Python projects. 
-4.	Upload Jupyter Notebooks. 
-5.	Upload Power BI files. 
-6.	Upload Tableau Public links. 
-7.	Organize a professional analytics portfolio. 
-8.	Share their work publicly for free. 
-9.	Create a simple portfolio website using GitHub Pages. 
+Graduate Student in Data Analytics
+
+## Skills
+
+- Python
+- SQL
+- Power BI
+- Tableau
+- Data Visualization
+
+## Projects
+
+### Python EDA Project
+[Link Here]
+### Power BI Dashboard
+https://github.com/sharonyash2025/DataAnalytics/tree/main/PowerBI
+
+### Tableau Dashboard
+Link Here
+
+### SQL Project
+Link Here
+
+## Contact
+LinkedIn:
+Email:
+
